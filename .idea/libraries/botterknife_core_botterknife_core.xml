@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="botterknife-core.botterknife-core">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/botterknife-core/build/libs/botterknife-core.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

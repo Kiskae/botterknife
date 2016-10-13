@@ -1,0 +1,4 @@
+include 'botterknife-core'
+include 'botterknife-android'
+
+rootProject.name = 'botterknife'
